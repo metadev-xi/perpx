@@ -65,4 +65,4 @@ PerpX provides a comprehensive API surface for both frontend interactions and ex
 
 <!-- Last Activity: 2026-01-29T11:06:47.572Z -->
 
-<!-- Last Activity: 2026-02-03T11:10:36.784Z -->
+<!-- Last Activity: 2026-02-03T12:10:40.160Z -->
